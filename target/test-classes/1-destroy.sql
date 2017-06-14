@@ -1,0 +1,6 @@
+
+DROP TABLE IF EXISTS `registered`;
+DROP TABLE IF EXISTS `teaches`;
+DROP TABLE IF EXISTS `staff`;
+DROP TABLE IF EXISTS `module`;
+DROP TABLE IF EXISTS `student`;
